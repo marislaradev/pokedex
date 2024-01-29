@@ -1,0 +1,49 @@
+.btn {
+  background-color: var(--white);
+  border: 0;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  padding: 0.5rem;
+  font-size: 1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  text-align: center;
+}
+
+.btn:hover {
+  transition: 0.2s ease-in-out;
+  color: var(--white);
+}
+
+.darkBackground {
+  background-color: var(--soft-black);
+}
+
+.image_dark {
+  width: 2rem;
+}
+
+.image_light {
+  width: 2rem;
+}
+
+.textButtonLight {
+  color: var(--white);
+}
+
+.textButtonDark {
+  color: var(--black);
+}
+
+@media (min-width: 768px) {
+  .btn {
+    font-size: 1.125rem;
+    padding: 0.5rem;
+  }
+}

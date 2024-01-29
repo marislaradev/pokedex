@@ -1,0 +1,30 @@
+.page404 {
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title2 {
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.texts {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.big_numbers, .red_text {
+    font-size: 150px;
+    color: var(--red);
+    font-weight: bold;
+}
+
+.image_pikachu {
+    width: 10rem;
+}

@@ -1,0 +1,10 @@
+.lightTheme {
+    background-color: var(--thunderbolt);
+    color: var(--black);
+  }
+  
+  .darkTheme {
+    background-color: var(--black);
+    color: var(--white);
+  }
+  

@@ -1,0 +1,47 @@
+.moves_list {
+    margin-top: 1rem; 
+    width: 500px;
+    text-align: center;
+} 
+
+.pokemon_moves {
+    list-style-type: none;
+    text-align: center;
+}
+
+.abilities_list {
+    width: 500px;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.pokemon_abilities {
+    list-style-type: none;
+    text-align: center;
+}
+
+.custom_image {
+    width: 150px;
+}
+
+.pokemon_name {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.error, .loading {
+    font-weight: bold;
+}
+
+@media (max-width: 480px) {
+    .moves_list {
+        margin-top: 1rem; 
+        width: 250px;
+    } 
+    
+    .abilities_list {
+        width: 250px;
+        margin-top: 1rem;
+        text-align: center;
+    }
+}

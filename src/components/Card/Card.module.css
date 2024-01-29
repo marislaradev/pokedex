@@ -1,0 +1,27 @@
+.card {
+    background-color: var(--soft-yellow);
+    text-decoration: none;
+    text-align: center;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.lightCard,
+.darkCard {
+    transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}
+
+.lightCard {
+    background-color: var(--white);
+    color: var(--black);
+    box-shadow: rgba(47, 47, 49, 0.2) 0px 7px 29px 0px;
+}
+
+.darkCard {
+    background-color: var(--soft-black);
+    color: var(--white);
+}
