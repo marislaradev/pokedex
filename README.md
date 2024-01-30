@@ -1,4 +1,4 @@
-# Pokédex
+<img align="center" alt="Pokedex logo" height="150" width="300" src="https://github.com/marislaradev/pokedex/assets/121054908/6587846f-8925-4c5b-aaa1-91726ebe6b32">
 
 A Pokédex foi desenvolvida como o desafio final do curso de Front-End do Dev em Dobro.
 
@@ -40,15 +40,19 @@ Fornecer uma interface para os usuários explorarem e visualizarem informações
 
 ## Decisões Adotadas
 
-**Botão de alternar o tema:** Como alguém que ❤ Pokémon desde a infância, eu decidi personalizar o botão de alternar o tema fazendo uma homenagem a dois Pokémons e seus principais movimentos.
--Tema claro: Pikachu com o seu movimento Thunderbolt.
--Tema escuro: Umbreon com o seu movimento Mean Eyes.
+**Botão de alternar o tema:** Como alguém que ❤ Pokémon desde a infância, eu decidi personalizar o botão de alternar o tema fazendo uma homenagem a dois Pokémons e seus principais movimentos.<br>
+![pikachu-light](https://github.com/marislaradev/pokedex/assets/121054908/ad086ee7-da70-4111-aa7b-20a661474546)
+  Tema claro: Pikachu com o seu movimento Thunderbolt. <br>
+  ![umbreon-dark](https://github.com/marislaradev/pokedex/assets/121054908/f9f3683a-42d0-445e-9ac6-bd7375f993d7)
+   Tema escuro: Umbreon com o seu movimento Mean Eyes.
 
 **Esquema de cores:**  O esquema de cores foi definido a partir das cores do logo do Pokémon, para que ficasse mais harmonioso. 
 
-**Emojis:** Para alegrar e deixar a aplicação mais fofa! Usei os emojis e ícones da icons8. https://icons8.com.br/ 
+**Emojis:** Para alegrar e deixar a aplicação mais fofa, usei os emojis e ícones da icons8. https://icons8.com.br/ 
 
-**Logo da Pokédex:** Utilizei esse site maravilhoso para criar a escrita com a fonte característica da marca Pokémon. https://www.textstudio.com/
+**Logo da Pokédex:** Utilizei o Text Studio para criar a escrita com a fonte característica do Pokémon. https://www.textstudio.com/
+
+**Linguagem**: Optei por utilizar o inglês na aplicação toda, pois a PokeAPI ainda não tem tradução para PT-BR. Então achei que ia ficar mais uniforme manter a aplicação toda em inglês e também aproveitar e praticar o idioma. 
 
 ## Como Rodar o Projeto
 
