@@ -64,14 +64,14 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 1- **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://https://github.com/marislaradev/pokedex
   ```
 
  2- **Instale as dependências:**
 
 Navegue até o diretório do projeto e execute o seguinte comando para instalar as dependências:
    ```bash
-   cd seu-projeto
+   cd pokedex
    npm install
   ```
 3- **Rodando o Projeto:**
